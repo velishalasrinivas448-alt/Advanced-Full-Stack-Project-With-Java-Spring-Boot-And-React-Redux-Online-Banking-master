@@ -3,7 +3,7 @@
 
 This is a full-stack project. You can access the backend details of the project from the link below. At this point, we will focus on the frontend.
 
-Java Spring Online Banking Rest Api [Java Spring Rest API]( https://github.com/Berko01/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api)
+Java Spring Online Banking Rest Api [Java Spring Rest API]( [https://github.com/Berko01/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api](https://github.com/velishalasrinivas448-alt/Advanced-Full-Stack-Project-With-Java-Spring-Boot-And-React-Redux-Online-Banking-master.git))
 
 
 The application is a Frontend project prepared for the Online Banking Rest API. React and Redux are used in the frontend of the application. The project is a single-page application, and I have fully leveraged the benefits provided by Redux. Every component you will see in the project is connected to the Redux Store. When the state of one component changes, all components that need to update their state automatically do so, providing users with real-time information.
@@ -21,7 +21,6 @@ If you want to learn more about React and Redux, you can check out my article on
 
 React and Redux Article [My Article]( https://medium.com/@berkindundar2001/react-nedir-ve-react-redux-neden-%C3%B6nemlidir-4c846d7a5124)
 
-
 Feel free to ask if you have any further questions or need additional information!
 
 
@@ -32,15 +31,15 @@ Feel free to ask if you have any further questions or need additional informatio
 
 ## Project Images and Components
 
-![Uygulama Ekran Görüntüsü](loginPage.png)
+![Application Screenshot](loginPage.png)
 
-![Uygulama Ekran Görüntüsü](ProjecPage1.png)
+![Application Screenshot](ProjecPage1.png)
 
-![Uygulama Ekran Görüntüsü](ProjectPage2.png)
+![Application Screenshot](ProjectPage2.png)
 
-![Uygulama Ekran Görüntüsü](ProjectPage3.png)
+![Application Screenshot](ProjectPage3.png)
 
-![Uygulama Ekran Görüntüsü](ProjectPage5.png)
+![Application Screenshot](ProjectPage5.png)
 
 
   
@@ -93,6 +92,6 @@ React, Redux, Thunk usage. JavaScript experiences. Communication with backend. C
   
 ## Programmers
 
-- [@Berko01](https://github.com/Berko01) design and development.
+-Velishala Srinivas design and development.
 
   
