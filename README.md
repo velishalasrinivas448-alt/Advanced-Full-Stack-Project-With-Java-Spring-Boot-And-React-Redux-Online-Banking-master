@@ -16,19 +16,6 @@ My LinkedIn Account [LinkedIn]( https://www.linkedin.com/feed/)
 
 
 
-
-If you want to learn more about React and Redux, you can check out my article on React and Redux:
-
-React and Redux Article [My Article]( https://medium.com/@berkindundar2001/react-nedir-ve-react-redux-neden-%C3%B6nemlidir-4c846d7a5124)
-
-Feel free to ask if you have any further questions or need additional information!
-
-
-
-
-
-
-
 ## Project Images and Components
 
 ![Application Screenshot](loginPage.png)
@@ -74,14 +61,6 @@ Start for Project
 **Technologies:** - React, Redux, Router Dom
 - Redux Thunk
   
-## Related projects
-
-You can take a look at the frontends for my React Redux Online Banking App and Android Java Online Banking App projects for this application.
-
-Java Spring Online Banking Rest Api [Java Spring Rest API]( https://github.com/Berko01/Advanced-Backend-Project-With-Java-Spring-Online-Banking-Rest-Api)
-
-Android Online Banking App: [Android Java Online Banking App]( https://github.com/Berko01/Android-Online-Banking-App-With-Java-Spring)
-
 
 
 
